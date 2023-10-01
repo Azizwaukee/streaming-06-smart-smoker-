@@ -1,0 +1,21 @@
+2023-10-01 10:46:38,136.smoker_consumer.INFO ==================================================
+2023-10-01 10:46:38,139.smoker_consumer.INFO Today is 2023-10-01 at 10:46 AM
+2023-10-01 10:46:38,141.smoker_consumer.INFO Running on: nt Windows 10
+2023-10-01 10:46:38,142.smoker_consumer.INFO Python version:  3.10.9
+2023-10-01 10:46:38,143.smoker_consumer.INFO Python path: C:\Users\amaar\anaconda3
+2023-10-01 10:46:38,145.smoker_consumer.INFO Working dir: C:\Users\amaar\OneDrive\Desktop\NW\Data Streaming\streaming-06-smart-smoker-
+2023-10-01 10:46:38,146.smoker_consumer.INFO ==================================================
+2023-10-01 10:46:38,226.smoker_consumer.INFO  [*] Ready for work. To exit press CTRL+C
+2023-10-01 10:46:38,227.smoker_consumer.INFO  [x] Received 5/22/2021 12:20,84.2
+2023-10-01 10:46:38,229.smoker_consumer.INFO [X] Smoker Temperature Received and Processed.
+2023-10-01 10:46:38,236.smoker_consumer.INFO  [x] Received 5/22/2021 13:21,181.4
+2023-10-01 10:46:38,237.smoker_consumer.INFO [X] Smoker Temperature Received and Processed.
+2023-10-01 10:46:38,239.smoker_consumer.INFO  [x] Received 5/22/2021 12:20,84.2
+2023-10-01 10:46:38,239.smoker_consumer.INFO Smoker Temperature Alert at 5/22/2021 12:20! - Smoker Temperature Has Changed More than 15 Degrees.
+2023-10-01 10:46:38,242.smoker_consumer.ERROR An Error Occured While Processing Smoker Temperature.
+2023-10-01 10:46:38,243.smoker_consumer.ERROR The error says: name 'createAndSendEmailAlert' is not defined
+2023-10-01 11:32:15,969.smoker_consumer.ERROR ERROR: something went wrong.
+2023-10-01 11:32:16,630.smoker_consumer.ERROR The error says: (406, 'PRECONDITION_FAILED - delivery acknowledgement on channel 1 timed out. Timeout value used: 1800000 ms. This timeout value can be configured, see consumers doc guide to learn more')
+2023-10-01 11:32:16,836.smoker_consumer.INFO 
+Closing connection. Have a good day.
+
